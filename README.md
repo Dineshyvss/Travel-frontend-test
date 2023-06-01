@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Recipe Frontend with Vue 3
 
 This application allows users to create and maintain recipes. Please visit https://github.com/OC-ComputerScience/recipe-backend for the backend repository.
@@ -40,3 +41,6 @@ npm run build
 ```
 npm run lint
 ```
+=======
+# Travel-frontend-test
+>>>>>>> c09aaf8a331e12dfd39aa7943dd9b3782b29bdfd
