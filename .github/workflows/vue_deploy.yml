@@ -8,7 +8,7 @@ on:
       - dev
  
 jobs:
-  aws-deploy:
+  aws-deploy: 
     runs-on: ubuntu-latest
     #For google auth
 
